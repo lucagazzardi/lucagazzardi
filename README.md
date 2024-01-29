@@ -5,7 +5,7 @@
 ## 👋 Hi, I’m Luca
 Software Developer since 2017, I'm primarily focused on web development and would like to deepen cloud development as well.
 
-Hobbyist photographer :framed_picture: Value investor :monocle_face: Passionate gamer :space_invader:
+Hobbyist photographer :framed_picture: Value investor :monocle_face: Japanese learner :jp:
 
 ---
 
